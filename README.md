@@ -3,6 +3,12 @@
 <h3 align="center">A passionate and dedicated full-stack developer from India with a knack for solving everyday problems through innovative programming tools. Committed to delivering high-quality solutions and continuously improving skills in both frontend and backend development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+to know me in unique style.
+👇 just hit 
+```bash
+npx pg18
+```
+
 - I'm currently working with an organization called **Zignuts Technolabs as a full stack developer and software engineer, focusing on frontend development in Vue and backend development in Laravel.**
 
 - 🌱 I'm currently learning **Python, Machine Learning, and Artificial Intelligence.**
